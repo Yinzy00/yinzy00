@@ -1,6 +1,6 @@
 # Hi 👋 my name is Yari Marën # 
 
-*   🎂 I’m 21 year old.
+*   🎂 I’m 21 years old.
 *   🌍 I’m based in Belgium.
 *   👨‍🎓 I’m currently studying programming at Thomas More university of applied sciences.
 *   🖥️ I’m currently doing an internship @ Numble as Full Stack .NET / Umbraco Developer.

@@ -7,6 +7,9 @@
 *   💡 I’m currently spending my free time learning Node with Typescript.
 *   📫  You can contact me at [mail@yarimarien.be](mailto:mail@yarimarien.be)
 
+
+<!-- ![Yari's github stats](https://github-readme-stats.vercel.app/api?username=Yinzy00&show_icons=true)
+-->
 <!--
 **Yinzy00/yinzy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

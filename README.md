@@ -3,7 +3,7 @@
 *   🎂 I’m 22 years old.
 *   🌍 I’m based in Belgium.
 *   👨‍🎓 I’m currently studying programming at Thomas More university of applied sciences.
-*   🖥️ I’m currently doing an internship @ Numble as Full Stack .NET / Umbraco Developer.
+*   🖥️ I’m currently working a student job @ Numble as Full Stack .NET / Umbraco Developer.
 *   💡 I’m currently spending my free time working an my smarthome & hobby projects.
 *   📫  You can contact me at [mail@yarimarien.be](mailto:mail@yarimarien.be)
 

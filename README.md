@@ -6,6 +6,7 @@
 *   🖥️ I’m currently working as Full Stack .NET / Umbraco developer @ Numble .
 *   💡 I’m currently spending my free time working on my smarthome & hobby projects in .NET & Angular.
 *   📫  You can contact me at [mail@yarimarien.be](mailto:mail@yarimarien.be)
+*   😎  Umbraco Certified Professional 
 
 
 <!-- ![Yari's github stats](https://github-readme-stats.vercel.app/api?username=Yinzy00&show_icons=true)

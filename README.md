@@ -3,14 +3,14 @@
 *   🎂 I’m 22 years old.
 *   🌍 I’m based in Belgium.
 *   👨‍🎓 I graduated as programmer at Thomas More university of applied sciences.
-*   🖥️ I’m currently working as Full Stack .NET / Umbraco developer @ Numble .
-*   💡 I’m currently spending my free time working on my smarthome & hobby projects in .NET & Angular.
-*   📫  You can contact me at [mail@yarimarien.be](mailto:mail@yarimarien.be)
+*   🖥️ I’m currently working as Full Stack .NET / Umbraco developer @[Numble](https://numble.be).
+*   💡 I’m currently spending my free time learning more about Umbraco and AI.
+*   📫  You can contact me at [yari.marien@telenet.be](mailto:yari.marien@telenet.be)
 *   😎  Umbraco Certified Professional 
 
 
-<!-- ![Yari's github stats](https://github-readme-stats.vercel.app/api?username=Yinzy00&show_icons=true)
--->
+<!-- ![Yari's github stats](https://github-readme-stats.vercel.app/api?username=Yinzy00&show_icons=true) -->
+
 <!--
 **Yinzy00/yinzy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

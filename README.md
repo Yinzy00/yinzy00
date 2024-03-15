@@ -5,7 +5,6 @@
 *   👨‍🎓 I graduated as programmer at Thomas More university of applied sciences.
 *   🖥️ I’m currently working as Full Stack .NET / Umbraco developer @[Numble](https://numble.be).
 *   💡 I’m currently spending my free time learning more about Umbraco and AI.
-*   📫  You can contact me at [yari.marien@telenet.be](mailto:yari.marien@telenet.be)
 *   😎  Umbraco Certified Expert 
 
 

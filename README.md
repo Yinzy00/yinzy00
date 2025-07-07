@@ -1,12 +1,16 @@
 # Hi 👋 my name is Yari Marën # 
 
-*   🎂 I’m 24 years old.
-*   🌍 I’m based in Belgium.
+*   🎂 I'm currently 25 years old. 
+*   🌍 I'm based in Belgium.
 *   👨‍🎓 I graduated as programmer at Thomas More university of applied sciences.
-*   🖥️ I’m currently working as Full Stack .NET / Umbraco developer @[Numble](https://numble.be).
-*   💡 I’m currently spending my free time learning more about Umbraco and AI.
-*   😎  Umbraco Certified Master
+*   🖥️ I'm currently working as Full Stack .NET / Umbraco developer @[Numble](https://numble.be).
+*   💡 I'm currently spending my free time learning more about Umbraco and AI.
+*   😎 Umbraco Certified Master
+*   🏆 **Umbraco MVP 2025**
 
+<br/>
+
+<img src="Transparent%202025.png" alt="Umbraco MVP 2025" width="150" />
 
 <!-- ![Yari's github stats](https://github-readme-stats.vercel.app/api?username=Yinzy00&show_icons=true) -->
 
